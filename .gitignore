@@ -1,3 +1,4 @@
 env
 .env
 main.py
+__pycache__
